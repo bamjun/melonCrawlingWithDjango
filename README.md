@@ -29,3 +29,5 @@
     rem 윈도우 커맨드 명령어
     django-admin startapp melon
     ```
+
+# 망했따!!! 서버에서 크롤링안됨... 포기.. ㅠㅠㅠ
